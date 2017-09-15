@@ -1,0 +1,8 @@
+Number of Russian tweets: 
+     299
+Number of tweets from August 2016: 
+       0
+Number of tweets that contain a retweet: 
+   29228
+Number of tweets that mention #gameofthrones: 
+       4
